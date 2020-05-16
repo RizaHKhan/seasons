@@ -1,0 +1,19 @@
+.icon-left {
+  float: left;
+}
+
+.icon-right {
+  float: right;
+}
+
+.season-display.summer {
+  background-color: yellow;
+}
+
+.season-diplay.winter {
+  background-color: blue;
+}
+
+.border.red {
+  border: solid 10px red;
+}
